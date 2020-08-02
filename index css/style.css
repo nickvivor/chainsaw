@@ -31,20 +31,20 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 55%;
+  width: 75%;
 }
 .second-container {
   background-color: #e4e3e3;
   height: auto;
   width: auto;
   border: solid #204051 5px;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 25%;
+  margin-right: 25%;
   margin-top: 3%;
   padding: 20px;
 }
 .intro-title {
-  color: #5da15f;
+  color: #395475;
   text-align: center;
   display: block;
   margin-left: auto;
@@ -60,8 +60,34 @@ body {
   font-family: "Lucida Console";
 }
 .intro-card {
+  border: solid #878787 5px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 55%;
+  width: 60%;
+}
+.third-container {
+  background-color: #e4e3e3;
+  height: auto;
+  width: auto;
+  border: solid #204051 5px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 1%;
+  padding: 20px;
+}
+.chapter1-title {
+  color: #395475;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Lucida Console";
+}
+.chapter1-card {
+  border: solid #878787 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
 }
