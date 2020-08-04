@@ -70,7 +70,7 @@ body {
 .exp-text {
   color: #606161;
   text-align: left;
-  font-family: "Lucida Console","Lucida Sans Typewriter",monaco,"Courier New",Courier,"Lucida Sans Typewriter","Lucida Typewriter",monospace;
+  font-family: "Lucida Console","Lucida Sans Typewriter",monaco,"Andale Mono",AndaleMono,monospace;
   font-size: 15px;
   line-height: 1.1;
 }
