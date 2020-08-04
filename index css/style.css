@@ -1,6 +1,7 @@
 body {
   background: #8a94d1;
 }
+
 .first-container {
   background-color: #e4e3e3;
   height: auto;
@@ -8,9 +9,10 @@ body {
   border: solid #204051 5px;
   margin-left: 10%;
   margin-right: 10%;
-  margin-top: 3%;
-  padding: 20px;
+  margin-top: 2%;
+  padding: 10px;
 }
+
 .wtitle {
   color: #6e7bcc;
   text-align: center;
@@ -19,6 +21,7 @@ body {
   margin-right: auto;
   font-family: "Lucida Console";
 }
+
 .sub-wtitle {
   color: #395475;
   text-align: center;
@@ -27,12 +30,55 @@ body {
   margin-right: auto;
   font-family: "Lucida Console";
 }
+
 .nickvivor-logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 75%;
 }
+
+.explanation-container {
+  background-color: #e4e3e3;
+  height: auto;
+  width: auto;
+  border: solid #204051 5px;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 3%;
+  padding: 5px;
+}
+
+.mini-exp-container {
+  background-color: #e4e3e3;
+  height: auto;
+  width: auto;
+  border: solid darkgray 2px;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 1%;
+  padding: 3px;
+}
+
+.exp-title {
+  color: #395475;
+  text-align: center;
+  font-family: "Lucida Console";
+  font-size: 18px;
+}
+
+.exp-text {
+  color: #606161;
+  text-align: left;
+  font-family: "Lucida Console";
+  font-size: 15px;
+  line-height: 1.1;
+}
+
+span {
+  color: red;
+}
+
 .second-container {
   background-color: #e4e3e3;
   height: auto;
@@ -43,6 +89,7 @@ body {
   margin-top: 3%;
   padding: 20px;
 }
+
 .intro-title {
   color: #395475;
   text-align: center;
@@ -51,6 +98,7 @@ body {
   margin-right: auto;
   font-family: "Lucida Console";
 }
+
 .click-pic {
   color: darkgray;
   text-align: center;
@@ -59,6 +107,7 @@ body {
   margin-right: auto;
   font-family: "Lucida Console";
 }
+
 .intro-card {
   border: solid #878787 5px;
   display: block;
@@ -66,6 +115,7 @@ body {
   margin-right: auto;
   width: 60%;
 }
+
 .third-container {
   background-color: #e4e3e3;
   height: auto;
@@ -76,6 +126,7 @@ body {
   margin-top: 1%;
   padding: 20px;
 }
+
 .chapter1-title {
   color: #395475;
   text-align: center;
@@ -84,6 +135,7 @@ body {
   margin-right: auto;
   font-family: "Lucida Console";
 }
+
 .chapter1-card {
   border: solid #878787 5px;
   display: block;
