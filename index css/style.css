@@ -13,14 +13,13 @@ body {
   padding: 10px;
 }
 
-.wtitle {
+/*.wtitle {
   color: #6e7bcc;
   text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  font-family: "Lucida Console";
-}
+} */
 
 .sub-wtitle {
   color: #395475;
@@ -28,7 +27,8 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  font-family: "Lucida Console";
+  font-family: "Lucida Console","Lucida Sans Typewriter",monaco,"Courier New",Courier,"Lucida Sans Typewriter","Lucida Typewriter",monospace;
+  font-size: 20px;
 }
 
 .nickvivor-logo {
@@ -63,14 +63,14 @@ body {
 .exp-title {
   color: #395475;
   text-align: center;
-  font-family: "Lucida Console";
+  font-family: "Lucida Console","Lucida Sans Typewriter",monaco,"Courier New",Courier,"Lucida Sans Typewriter","Lucida Typewriter",monospace;
   font-size: 18px;
 }
 
 .exp-text {
   color: #606161;
   text-align: left;
-  font-family: "Lucida Console";
+  font-family: "Lucida Console","Lucida Sans Typewriter",monaco,"Courier New",Courier,"Lucida Sans Typewriter","Lucida Typewriter",monospace;
   font-size: 15px;
   line-height: 1.1;
 }
@@ -96,7 +96,7 @@ span {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  font-family: "Lucida Console";
+  font-family: "Lucida Console","Lucida Sans Typewriter",monaco,"Courier New",Courier,"Lucida Sans Typewriter","Lucida Typewriter",monospace;
 }
 
 .click-pic {
@@ -105,7 +105,7 @@ span {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  font-family: "Lucida Console";
+  font-family: "Lucida Console","Lucida Sans Typewriter",monaco,"Courier New",Courier,"Lucida Sans Typewriter","Lucida Typewriter",monospace;
 }
 
 .intro-card {
@@ -133,7 +133,7 @@ span {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  font-family: "Lucida Console";
+  font-family: "Lucida Console","Lucida Sans Typewriter",monaco,"Courier New",Courier,"Lucida Sans Typewriter","Lucida Typewriter",monospace;
 }
 
 .chapter1-card {
